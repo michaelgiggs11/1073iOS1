@@ -1,6 +1,6 @@
 This is an example README.md
 
-David Evans / dse4@pitt.edu
+Chao Shi / chs162@pitt.edu
 ==================
 
 Three Facts About Me
